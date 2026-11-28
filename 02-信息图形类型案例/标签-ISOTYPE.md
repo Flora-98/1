@@ -1,21 +1,5 @@
-# 标签：ISOTYPE
+# ISOTYPE标签迁移说明
 
-> 分类定位：基础视觉表达方法/图像符号系统，不是与编年型、层级型、编目型并列的信息图形类型。
+ISOTYPE不再作为02目录中的市场表现标签。它是独立的设计方法与视觉符号系统，现统一归档至[03-ISOTYPE信息图](../03-ISOTYPE信息图/README.md)。
 
-## 工作定义
-ISOTYPE（International System of Typographic Picture Education）与 Otto Neurath、Gerd Arntz 等人的图像统计实践相关，强调使用标准化、可重复识别的图像符号表达社会事实与数量关系。分析时区分历史 ISOTYPE 实践与泛指 pictogram/icon array。
-
-## 核心观察维度
-- 符号是否标准化并保持一致？
-- 一个符号代表多少对象/数量？是否有图例？
-- 数量通过重复符号还是改变尺寸表达？
-- 符号是否具有可识别语义？
-- 是否采用简化、轮廓化和统一视角？
-- 符号是否服务统计比较和公共理解？
-- 是否与文字、地图、统计图结合？
-
-## 使用约束
-重复图形表示数量时优先重复完整单位，不随意拉伸符号造成面积误读。半个符号表示部分数量时必须给出规则。不能仅因使用图标就标记为 ISOTYPE。
-
-## 标签
-`#ISOTYPE` `#PictorialStatistics` `#IconArray` `#SymbolSystem` `#RepeatedUnit`
+旧文档为兼容历史链接而保留。案例若采用ISOTYPE方法，应在CASE元数据中记录方法证据并链接独立专项，不改变其五种基础类型主归属或市场表现标签。
